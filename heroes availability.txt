@@ -1,0 +1,17 @@
+In some maps you can convert your units in hero units, here you can find the availability of hero per map and the number that you can 
+have at the same time
+
+
+1) Episode IV: The Stand (Protoss)
+
+1.2) Dunes of Shakuras
+Zealot Hero		6
+Dark Templar Hero	4
+
+1.3)  Legacy of the Xel'Naga
+Dragoon Hero		6
+Scout Hero		4
+
+1.4) The Quest for Uraj
+Dragoon Hero		6
+Reaver Hero		4
