@@ -1,4 +1,4 @@
-In some maps you can convert your units in hero units, here you can find the availability of hero per map and the number that you can 
+In some maps you can convert your units in hero units, here you can find the availability of heroes per map and the number that you can 
 have at the same time
 
 
@@ -13,5 +13,15 @@ Dragoon Hero		6
 Scout Hero		4
 
 1.4) The Quest for Uraj
+Dragoon Hero		6
+Reaver Hero		4
+
+1.6) Return to Char
+Scout Hero		6
+Hunter Killer		6
+Arbiter Hero		4
+
+1.7) Return to Char
+Scout Hero		6
 Dragoon Hero		6
 Reaver Hero		4
