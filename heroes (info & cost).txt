@@ -1,0 +1,85 @@
+NOTE: In some maps you can transform your units 
+in hero units, by bringing them into a beacon 
+near to your initial base, every hero have a 
+cost,  the heroes and limit that you can have 
+depend of the map.
+
+**************
+*** Heroes ***
+**************
+
+1) Terran
+
+1. Marine ---> War Pig
+2. Firebat ---> Devil Dog
+3. Ghost ---> Ghost Hero
+4. Vulture ---> Speed Biker
+5. Siege Tank ---> Siege Breaker
+6. Goliath ---> Spartan Goliath
+7. Wraith ---> Hell Angel
+8. Science Vessel ---> Science Vessel Hero
+9. Battlecruiser ---> Jackson's Revenge
+
+2) Zerg
+
+1. Zergling ---> Devouring One
+2. Hydralisk ---> Hunter killer
+3. Defiler ---> Unclean One
+4. Ultralisk ---> Torrasque
+5. Queen ---> Matriach
+6. Mutalisk ---> Kukuza(Mutalisk)
+7. Guardian ---> Kukuza(Guardian)
+8. Overlord ---> Yggdrasill
+
+
+3) Protoss
+
+1. Zealot ---> Zealot Hero
+2. Dragoon ---> Dragoon Hero
+3. High Templar ---> High Templar Hero
+4. Dark Templar ---> Dark Templar Hero
+5. Archon ---> Archon Hero
+6. Reaver ---> Reaver Hero
+7. Scout ---> Scout Hero
+8. Carrier ---> Carrier Hero
+9. Arbiter ---> Arbier Hero
+
+************
+*** COST ***
+************
+
+1) Terran
+
+1. War Pig ---> 150 ore
+2. Devil Dog ---> 150 ore | 50 gas
+3. Ghost Hero ---> 50 ore | 150 gas
+4. Speed Biker ---> 300 ore
+5. Spartan Goliath ---> 300 ore | 150 gas
+6. Siege Breaker ---> 600 ore | 300 gas
+7. Hell Angel ---> 300 ore | 200 gas
+8. Science Vessel Hero ---> 300 ore | 600 gas
+9. Jackson's Revenge ---> 800 ore | 600 gas
+
+2) Zerg
+
+1. Devouring One ---> 100 ore	
+2. Hunter killer ---> 150 ore | 50 gas
+3. Kukuza(Muta) ---> 200 ore | 200 gas
+4. Kukuza(Guardian) ---> 100 ore | 300 gas
+5. Torrasque ---> 400 ore | 400 gas	
+6. Matriach --->  200 ore | 200 gas	
+7. Unclean One ---> 150 ore | 300 gas	
+8. Yggdrasill ---> 300 ore
+
+
+3) Protoss
+
+1. Zealot Hero ---> 200 ore
+2. Dragoon Hero ---> 300 ore | 150 gas
+3. High Templar Hero ---> 100 ore | 300 gas
+4. Dark Templar Hero ---> 250 ore | 200 gas
+5. Archon Hero ---> 200 ore | 600 gas
+6. Reaver Hero ---> 400 ore | 200 gas
+7. Scout Hero ---> 300 ore | 200 gas
+8. Carrier Hero --->700 ore | 500 gas
+9. Arbiter Hero ---> 200 ore | 600 gas		

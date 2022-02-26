@@ -21,7 +21,12 @@ Scout Hero		6
 Hunter Killer		6
 Arbiter Hero		4
 
-1.7) Return to Char
+1.7) The Insurgent
 Scout Hero		6
 Dragoon Hero		6
 Reaver Hero		4
+
+1.8) Countdown
+Scout Hero		12
+Dragoon Hero		12
+High Templar Hero	6
