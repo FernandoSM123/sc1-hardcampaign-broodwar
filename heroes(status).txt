@@ -55,6 +55,18 @@ ARMOR:5
 DAMAGE:80
 UPG.DAMAGE:10
 
+1-9)Duran
+HP: 600
+ARMOR:3
+DAMAGE:30
+UPG.DAMAGE:3
+
+1-10)Kerrigan(Ghost)
+HP: 600
+ARMOR:3
+DAMAGE:30
+UPG.DAMAGE:3
+
 ************************
 *** 2-Protoss Heroes ***
 ************************
