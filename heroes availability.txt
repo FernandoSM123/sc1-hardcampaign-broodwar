@@ -30,3 +30,47 @@ Reaver Hero		4
 Scout Hero		12
 Dragoon Hero		12
 High Templar Hero	6
+
+2) Episode V: The Iron Fist (Terran)
+
+2.1) First Strike
+War Pig		4
+Devil Dog	2
+Speed Biker	2
+
+2.3) Ruins of Tarsonis
+War Pig		4
+Devil Dog	3
+Hell Angel	4
+
+2.4) Assault on Korhal
+Spartan Goliath		6
+Siege Breaker		4
+
+2.5a) Emperor's Fall (Ground Zero)
+War Pig			8
+Speed Biker		6
+Siege Breaker		4
+Science Vessel Hero	4
+
+2.5b) Emperor's Fall (Birds of War)
+War Pig			8
+Spartan Goliath		6
+Hell Angel		6
+Ghost Hero		3
+
+2.6) Emperor's Flight
+Spartan Goliath		8
+Siege Breaker		4
+Science Vessel Hero	4
+
+2.8) To Chain the Beast
+War Pig			8
+Devil Dog		4
+Ghost Hero		4
+Speed Biker		6
+Spartan Goliath		6
+Siege Breaker		6
+Hell Angel		8
+Science Vessel Hero	6
+Jackson's Revenge	3
