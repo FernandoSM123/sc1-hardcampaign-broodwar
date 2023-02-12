@@ -91,18 +91,37 @@ Jackson's Revenge	3
 Hunter killer	6
 
 3.3) The Kel-Morian Combine
-Devouring One	6
-Hunter killer	3
-Matriarch	2
+Devouring One	8
+Hunter killer	6
+Matriarch	4
+Yggdrasill	2
+Unclean One	2
 Torrasque	1
-Yggdrasill	1
-Unclean One	1
 
 3.4) The Liberation of Korhal
 Kukuza (Mutalisk)	12
 Kukuza (Guardian)	12
 Devouring One		8
 Hunter killer		6
+Matriarch		6
+Yggdrasill		3
+Unclean One		2
+Torrasque		1
+
+3.5) True Colors
+Kukuza (Mutalisk)	12
+Kukuza (Guardian)	12
+Devouring One		8
+Hunter killer		6
+Matriarch		6
+Yggdrasill		3
+Unclean One		2
+Torrasque		1
+
+3.6) Fury of the Swarm
+Kukuza (Mutalisk)	12
+Hunter killer		12
+Devouring One		8
 Matriarch		6
 Yggdrasill		3
 Unclean One		2
