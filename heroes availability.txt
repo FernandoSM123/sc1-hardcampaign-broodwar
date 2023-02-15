@@ -126,3 +126,20 @@ Matriarch		6
 Yggdrasill		3
 Unclean One		2
 Torrasque		1
+
+3.7) The Drawing of the Web
+Hunter killer		12
+Devouring One		10
+Matriarch		6
+Unclean One		3
+Torrasque		2
+
+3.8) To Slay the Beast
+Kukuza (Mutalisk)	12
+Kukuza (Guardian)	12
+Devouring One		10
+Hunter killer		8
+Matriarch		6
+Yggdrasill		4
+Unclean One		3
+Torrasque		2
