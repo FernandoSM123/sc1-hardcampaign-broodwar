@@ -1,4 +1,6 @@
-In some maps you can convert your units in hero units, here you can find the availability of heroes per map and the number that you can 
+In some maps you can convert your units into hero 
+units, here you can find the availability of 
+heroes per map and the number that you can 
 have at the same time
 
 
@@ -143,3 +145,23 @@ Matriarch		6
 Yggdrasill		4
 Unclean One		3
 Torrasque		2
+
+3.9) The Reckoning
+Kukuza (Mutalisk)	6
+Kukuza (Guardian)	6
+Devouring One		8
+Hunter killer		6
+Matriarch		6
+Yggdrasill		4
+Unclean One		3
+Torrasque		2
+
+3.10) Omega
+Kukuza (Mutalisk)	12
+Kukuza (Guardian)	12
+Devouring One		12
+Hunter killer		12
+Matriarch		8
+Yggdrasill		6
+Unclean One		4
+Torrasque		3
