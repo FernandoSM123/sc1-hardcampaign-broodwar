@@ -23,6 +23,7 @@ you want, that means if one of your heroes die
 you can replace it with another one meanwhile 
 you don't excess the limit.
 
+
 **********************************************
 ***   1) Episode IV: The Stand (Protoss)   ***
 **********************************************
