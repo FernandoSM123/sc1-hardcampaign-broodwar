@@ -1,8 +1,13 @@
-NOTE: In some maps you can transform your units 
-into hero units, by bringing them into a beacon 
-near to your initial base, every hero have a 
-cost,  the heroes and limit that you can have 
-depend of the map.
+NOTE: 
+1- In some maps, you can transform your regular 
+units 
+into hero units, by bringing them into a 
+beacon near to your initial base.
+
+
+2- You need resources to do this, each type of 
+hero have a specific cost, check the cost in the 
+section below.
 
 **************
 *** Heroes ***

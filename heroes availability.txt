@@ -1,8 +1,27 @@
-In some maps you can convert your units into hero 
-units, here you can find the availability of 
-heroes per map and the number that you can 
-have at the same time
+NOTE: 
+1- In some maps, you can transform your regular 
+units 
+into hero units, by bringing them into a 
+beacon near to your initial base.
 
+
+2- The availability of heroes depend on the 
+map, each map a different set of heroes.
+
+
+3- You can only have a specific number of heroes 
+of each type at the same time, the limit also 
+depends on the map.
+
+
+4- Check this information in the section 
+below, you will find the heroes that you can 
+have per mission, and the limit of each 
+hero.
+You can repeat this process all the times 
+you want, that means if one of your heroes die 
+you can replace it with another one meanwhile 
+you don't excess the limit.
 
 **********************************************
 ***   1) Episode IV: The Stand (Protoss)   ***
